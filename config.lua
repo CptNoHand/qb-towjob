@@ -1,6 +1,6 @@
 Config = {}
 
-Config.BailPrice = 250
+Config.BailPrice = 0
 
 Config.Vehicles = {
     ["flatbed"] = "Flatbed",
